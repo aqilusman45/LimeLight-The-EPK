@@ -1,2 +1,2 @@
 # React-Firebase
-ReactJs Project with Firebase Integration 
+Site Migration from express server to React server Routing Components Sign In Page with User Login Email/Password, Facebook, Twitter. Sign Up Page with Firestore integration Session Handling Password Forget and Password Reset. Site deployment on Firebase Hosting Firebase Storage integration/ Dashboard with User information Account settings page where user can edit account details.
